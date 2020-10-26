@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c77a27ca-0d4d-4ddc-b183-53d0d554acf5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alibaba-Consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alibaba-Consumer/src/main/java/com/term/consumer/AliConsumerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alibaba-Consumer/src/main/java/com/term/consumer/config/ConfigFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alibaba-Consumer/src/main/java/com/term/consumer/controller/ConsumerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alibaba-Consumer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alibaba-Nacos-Config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alibaba-Nacos-Config/src/main/java/com/term/config/NacosConfigClientApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alibaba-Nacos-Config/src/main/java/com/term/config/controller/NacosConfigClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alibaba-Nacos-Config/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alibaba-Nacos-Config/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud-Nacos-Provider/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud-Nacos-Provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud-Nacos-Provider/src/main/java/com/term/nacos/NacosProviderDemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud-Nacos-Provider/src/main/java/com/term/nacos/controller/AppController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud-Nacos-Provider/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud-Nacos-Provider/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud-Nacos-Provider/target/classes/com/term/nacos/NacosProviderDemoApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloud-Nacos-Provider/target/classes/com/term/nacos/controller/AppController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SpringCloudAlibabaStudy.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\MavenRepository" />
+        <option name="mavenHome" value="E:\java\apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="C:\Users\Termlis\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jGhIFpq4tkQSHVtaovCFYQX8Za" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaProject\SpringCloudAlibabaStudy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AliConsumerApp">
+    <configuration name="AliConsumerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.term.consumer.AliConsumerApp" />
+      <module name="Alibaba-Consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.term.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NacosProviderDemoApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.term.nacos.NacosProviderDemoApplication" />
+      <module name="SpringCloud-Nacos-Provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.term.nacos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AliConsumerApp" />
+        <item itemvalue="Application.NacosProviderDemoApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c77a27ca-0d4d-4ddc-b183-53d0d554acf5" name="Default Changelist" comment="" />
+      <created>1603436259970</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603436259970</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="732" y="161" key="FileChooserDialogImpl" timestamp="1603522487089">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="549" y="119" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603443344333" />
+    <state x="732" y="161" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1603522487089" />
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom" timestamp="1603436934827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603436934827" />
+    <state width="1493" height="168" key="GridCell.Tab.0.center" timestamp="1603436934827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603436934827" />
+    <state width="1493" height="168" key="GridCell.Tab.0.left" timestamp="1603436934827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603436934827" />
+    <state width="1493" height="168" key="GridCell.Tab.0.right" timestamp="1603436934827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="168" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603436934827" />
+    <state x="408" y="116" key="NewModule_or_Project.wizard" timestamp="1603436329135">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="116" key="NewModule_or_Project.wizard/0.0.1536.824@0.0.1536.824" timestamp="1603436329135" />
+    <state x="332" y="0" key="SettingsEditor" timestamp="1603522600179">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603444388988" />
+    <state x="332" y="0" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1603522600179" />
+    <state x="389" y="73" key="new project wizard" timestamp="1603440795369">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="389" y="73" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1603440795369" />
+  </component>
+</project>
