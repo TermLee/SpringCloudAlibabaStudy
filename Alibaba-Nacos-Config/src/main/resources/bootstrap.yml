@@ -7,10 +7,12 @@ spring:
   cloud:
     nacos:
       discovery:
-        server-addr: localhost:8848
+        server-addr: 192.168.31.129:8848
       config:
-        server-addr: localhost:8848
+        server-addr: 192.168.31.129:8848
         file-extension: yaml
+        namespace: 38958c87-ae14-4cbd-ade9-43d57ac61c7f
+        group: DEV_GROUP
 
 # 服务名 - profiles . file-extension
-# 对应的配置文件名: nacos-config-server-dev.yml
+# 对应的配置文件名: nacos-config-server-dev.yaml
